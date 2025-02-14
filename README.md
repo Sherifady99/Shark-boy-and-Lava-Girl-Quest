@@ -7,4 +7,4 @@ Proved/disproved our hypothesis.
 
 We decided on the following 2 hypothesis:
 Hypothesis 1: Provoked shark attacks are more fatal than unprovoked.
-Hypothesis 2: Great white sharks are the most fatal species
+Hypothesis 2: Great white sharks are the most fatal species.
